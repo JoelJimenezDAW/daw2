@@ -15,4 +15,4 @@ export class HeroeComponent {
 
   
 }
-export class AppModule { }
+export class AppModule {}
