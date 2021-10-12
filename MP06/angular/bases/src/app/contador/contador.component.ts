@@ -23,6 +23,6 @@ export class ContadorComponent {
 
   }
 
-  
+
 }
 export class AppModule { }
