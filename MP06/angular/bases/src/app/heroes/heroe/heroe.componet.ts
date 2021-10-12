@@ -9,10 +9,10 @@ export class HeroeComponent {
   title: string = 'Heroe';
   nombre: string = 'Spiderman';
   edad: number = 22;
-  
 
 
 
-  
+
+
 }
 export class AppModule {}
